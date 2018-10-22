@@ -6,8 +6,8 @@ cors = CORS(app)
 from flask import jsonify
 
 @app.route('/')
-def hello_world():
-	return 'Hello, World!'
+def server_test():
+	return 'Server Test'
 
 @app.route('/daily/heatmap/')
 def daily_heatmap():

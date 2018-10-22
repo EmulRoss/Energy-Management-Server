@@ -8,7 +8,7 @@
 	"popupContent": "The Chamber of Mines Building",
 	"id": 0,
 	"styleid": {
-        "color": "#ff7800",
+        "color": "#4ab500",
         "weight": 5,
         "opacity": 0.65
       }
@@ -118,7 +118,7 @@
 	"popupContent": "Wits Science Stadium",
 	"id": 4,
 	"styleid": {
-        "color": "#ff0000",
+        "color": "#ff6100",
         "weight": 5,
         "opacity": 0.65
       }
@@ -252,7 +252,7 @@
 	"popupContent": "FNB",
 	"id": 8,
 	"styleid":       {
-        "color": "#0000ff",
+        "color": "#00e03e",
         "weight": 5,
         "opacity": 0.65
       }
@@ -758,7 +758,7 @@
 	"popupContent": "Great Hall",
 	"id": 25,
 	"styleid": {
-        "color": "#ff00ff",
+        "color": "#00ff00",
         "weight": 5,
         "opacity": 0.65
       }
